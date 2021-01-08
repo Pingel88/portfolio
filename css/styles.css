@@ -1,0 +1,36 @@
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 45px;
+  text-align: center;
+}
+
+#profile-picture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%
+}
+
+h2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 25px;
+  text-align: center;
+}
+
+h3 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+.spacer {
+  margin-top: 10px;
+}
+
+p {
+  text-align: center;
+}
+
+/* li {
+  text-align: center;
+} */
