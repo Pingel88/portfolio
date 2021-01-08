@@ -40,3 +40,59 @@ p {
   margin-bottom: 10px;
   box-sizing: border-box;
 }
+
+.tile-bg-color1 {
+  background-color: cornflowerblue;
+}
+
+.tile-bg-color2 {
+  background-color: #ed9d64;
+}
+
+#mintcream {
+  color: mintcream;
+}
+
+#tomato {
+  color: tomato;
+}
+
+#peachpuff {
+  color: peachpuff;
+}
+
+#blanchedalmond {
+  color: blanchedalmond;
+}
+
+#chocolate {
+  color: chocolate;
+}
+
+#limegreen {
+  color: limegreen;
+}
+
+#salmon {
+  color: salmon;
+}
+
+#olive {
+  color: olive;
+}
+
+#orange {
+  color: orange;
+}
+
+#plum {
+  color: plum;
+}
+
+#bisque {
+  color: bisque;
+}
+
+#honeydew {
+  color: honeydew
+}
