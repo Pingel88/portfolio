@@ -6,9 +6,8 @@ h1 {
 
 #profile-picture {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 25%
+  float: right;
+  width: 200px;
 }
 
 h2 {
@@ -31,6 +30,13 @@ p {
   text-align: center;
 }
 
-/* li {
-  text-align: center;
-} */
+.box-model {
+  display: block;
+  width: 200px;
+  float: left;
+  padding: 5px;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-width: 3px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
