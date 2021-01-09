@@ -22,8 +22,16 @@ h3 {
   text-align: center;
 }
 
+.cupcake {
+  font-weight: 954;
+}
+
 .spacer {
   margin-top: 10px;
+}
+
+.alt-link-color {
+  color: #ed9d64;
 }
 
 p {
