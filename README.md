@@ -7,9 +7,14 @@
 * _GitHub_
 ## Description
 #### A simple webpage hosted on GitHub Pages detailing information about Mike Pingel and the projects he created while at Epicodus.
-## GitHub Pages link
-http://www.pingel88.github.io/portfolio/
+## Setup/Installation Instructions
+* Viewable at: http://pingel88.github.io/portfolio/
+* Alternatively, clone this repository to your desktop
+  * Navigate to the top level of the directory
+  * Open index.html in your browser
 ## Copyright & License Information
 MIT
+
+Copyright &copy; 2021 Michael Pingel
 ## Contact Information
 Mike Pingel mdpingel@gmail.com
